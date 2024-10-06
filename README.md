@@ -16,7 +16,7 @@
 
 <ul>
   <li>🌱 I’m currently learning <strong>AI</strong></li>
-  <li>👨‍💻 My LinkedIn: <a href="https://www.linkedin.com/in/smaadilahmed">S.M Aadil Ahmed</a></li>
+  <li>👨‍💻 My LinkedIn: <a href="[https://www.linkedin.com/in/smaadilahmed](https://www.linkedin.com/in/adil6/)">S.M Aadil Ahmed</a></li>
   <li>📫 How to reach me: <a href="mailto:smaadil688@gmail.com">smaadil688@gmail.com</a></li>
   <li>⚡ Fun fact: I am funny</li>
 </ul>
