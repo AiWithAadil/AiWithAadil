@@ -1,120 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>S.M Aadil - Data Engineer & AI Enthusiast</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 0;
-      color: #333;
-    }
-    .container {
-      max-width: 1000px;
-      margin: 40px auto;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 8px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    }
-    h1 {
-      text-align: center;
-      font-size: 36px;
-      color: #1a73e8;
-      margin-bottom: 10px;
-    }
-    h2 {
-      text-align: center;
-      font-size: 24px;
-      color: #555;
-    }
-    p {
-      font-size: 18px;
-      line-height: 1.6;
-      margin: 20px 0;
-    }
-    .section {
-      margin: 40px 0;
-    }
-    .social-links a {
-      margin: 0 10px;
-      color: #1a73e8;
-      font-weight: bold;
-      text-decoration: none;
-    }
-    .languages-tools img {
-      margin: 10px;
-      transition: transform 0.2s ease;
-    }
-    .languages-tools img:hover {
-      transform: scale(1.1);
-    }
-    .github-stats img {
-      width: 100%;
-      max-width: 350px;
-      margin: 20px 0;
-    }
-    .icons img {
-      margin: 0 15px;
-      transition: transform 0.3s ease;
-    }
-    .icons img:hover {
-      transform: translateY(-5px);
-    }
-  </style>
-</head>
-<body>
+<h1 align="center">Hi 👋, I'm Adil</h1>
+<h3 align="center">Data Engineering Enthusiast | Docker, Kafka, Snowflake, Airflow | DWH, AWS & Cloud Integration | AI Learning</h3>
 
-<div class="container">
-  <h1>Hi, I'm S.M. Aadil 👋</h1>
-  <h2>Data Engineer | AI Enthusiast | Programmer</h2>
+- 🌱 I’m currently learning **Data Engineer, AI**
 
-  <p>Welcome to my GitHub profile! I specialize in building data-driven solutions and optimizing workflows with expertise in Python, ETL pipelines, SQL, and cloud platforms like Snowflake and AWS. My current passion lies in exploring the intersection of data engineering and AI technologies.</p>
+- 👨‍💻 All of my projects are available at [https://my-port-folio-rosy-seven.vercel.app/](https://my-port-folio-rosy-seven.vercel.app/)
 
-  <p>I'm always up for new challenges in data engineering, automation, and AI, and I'm constantly expanding my skillset to stay on top of the latest trends in technology.</p>
+- 📫 How to reach me **smaadil688@gmail.com**
 
-  <h2>What I'm working on:</h2>
-  <ul>
-    <li>🌱 Currently learning advanced <strong>AI and Machine Learning</strong></li>
-    <li>⚙️ Building ETL pipelines and optimizing data storage solutions</li>
-    <li>📊 Analyzing big datasets and improving query performance in <strong>SQL</strong></li>
-  </ul>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/syed muhammad adil ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed muhammad adil ahmed" height="30" width="40" /></a>
+</p>
 
-  <h2>Let's Connect</h2>
-  <div class="social-links">
-    <a href="https://linkedin.com/in/smaadilahmed" target="_blank">LinkedIn</a> | 
-    <a href="mailto:smaadil688@gmail.com">Email</a> | 
-    <a href="https://instagram.com/sm_aadil_ahmed" target="_blank">Instagram</a>
-  </div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  <div class="section">
-    <h2>Languages & Tools</h2>
-    <div class="languages-tools" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" alt="Snowflake" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="50" height="50"/>
-    </div>
-  </div>
-
-  <div class="section">
-    <h2>GitHub Stats</h2>
-    <div class="github-stats" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=smaadil&show_icons=true&locale=en" alt="GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=smaadil" alt="GitHub Streak" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smaadil&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </div>
-  </div>
-
-  <p align="center">Profile views: <img src="https://komarev.com/ghpvc/?username=smaadil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
-</div>
-
-</body>
-</html>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiwithaadil&show_icons=true&locale=en&layout=compact" alt="aiwithaadil" /></p>
